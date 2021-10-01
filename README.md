@@ -2,7 +2,6 @@
 
 - 💻 Trabalhando atualmente em Renovias Concessionária S/A 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas -  UNIFEOB / Tecnologia Front End 
-- 📫 Email: geraldo8_@hotmail.com / geraldo.silva@sou.unifeob.edu.br
 - 🎮 HOBBIES: PS4 + STEAM
 
 <div align="left">
@@ -16,8 +15,6 @@
   <img align="center" alt="Gsennin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gsennin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-##
  
 <div>
   <a href="https://www.linkedin.com/in/silvageraldo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
