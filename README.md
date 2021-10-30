@@ -2,7 +2,6 @@
 
 - 💻 Trabalhando atualmente em Renovias Concessionária S/A 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas -  UNIFEOB / Tecnologia Front End 
-- 🎮 HOBBIES: PS4 + STEAM
 
 <div align="left">
   <a href="https://www.linkedin.com/in/silvageraldo/">
