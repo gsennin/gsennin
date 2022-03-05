@@ -1,6 +1,5 @@
 ### Olá! Me chamo Geraldo! Seja Bem-Vindo! ###
 
-- 💻 Trabalhando atualmente em Renovias Concessionária S/A 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas -  UNIFEOB / Tecnologia Front End 
 
 <div align="left">
