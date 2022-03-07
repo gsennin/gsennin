@@ -1,6 +1,6 @@
 ### Olá! Me chamo Geraldo! Seja Bem-Vindo! ###
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas -  UNIFEOB / Tecnologia Front End 
+- 📚 Cursando Análise e Desenvolvimento de Sistemas -  UNIFEOB / Tecnologia Front End  
 
 <div align="left">
   <a href="https://www.linkedin.com/in/silvageraldo/">
