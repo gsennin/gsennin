@@ -1,7 +1,6 @@
 ### Olá! Me chamo Geraldo! Seja Bem-Vindo! ###
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas -  UNIFEOB / Tecnologia Front End
-- Work: Wi7h - São João da Boa Vista - SP
 
 <div align="left">
   <a href="https://www.linkedin.com/in/silvageraldo/">
