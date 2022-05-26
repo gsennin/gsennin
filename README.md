@@ -1,4 +1,4 @@
-### Olá! Me chamo Geraldo! Seja Bem-Vindo! ###
+### Olá! Me chamo Geraldo Seja Bem-Vindo ###
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas -  UNIFEOB / Tecnologia Front End
 
